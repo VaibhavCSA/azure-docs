@@ -10,7 +10,7 @@ ms.date: 06/02/2021
 ---
 
 # Monitoring virtual machines with Azure Monitor
-This scenario describes how to use Azure Monitor monitor the health and performance of  virtual machines and the workloads. It includes collection of telemetry critical for monitoring, analysis and visualization of collected data to identify trends, and how to configure alerting to be proactively notified of critical issues.
+This scenario describes how to use Azure Monitor to monitor the health and performance of  virtual machines and the workloads. It includes collection of telemetry critical for monitoring, analysis and visualization of collected data to identify trends, and how to configure alerting to be proactively notified of critical issues.
 
 This article introduces the scenario, provides general concepts for monitoring virtual machines in Azure Monitor. If you want to jump right into a specific area then please refer to the other articles that are part of this scenario described in the following table.
 
